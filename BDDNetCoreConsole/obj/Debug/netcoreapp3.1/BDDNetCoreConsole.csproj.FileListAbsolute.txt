@@ -4,7 +4,6 @@ C:\Temp\VSProjects\BDDNetCore\BDDNetCoreConsole\bin\Debug\netcoreapp3.1\BDDNetCo
 C:\Temp\VSProjects\BDDNetCore\BDDNetCoreConsole\bin\Debug\netcoreapp3.1\BDDNetCoreConsole.runtimeconfig.dev.json
 C:\Temp\VSProjects\BDDNetCore\BDDNetCoreConsole\bin\Debug\netcoreapp3.1\BDDNetCoreConsole.dll
 C:\Temp\VSProjects\BDDNetCore\BDDNetCoreConsole\bin\Debug\netcoreapp3.1\BDDNetCoreConsole.pdb
-C:\Temp\VSProjects\BDDNetCore\BDDNetCoreConsole\obj\Debug\netcoreapp3.1\BDDNetCoreConsole.csprojAssemblyReference.cache
 C:\Temp\VSProjects\BDDNetCore\BDDNetCoreConsole\obj\Debug\netcoreapp3.1\BDDNetCoreConsole.AssemblyInfoInputs.cache
 C:\Temp\VSProjects\BDDNetCore\BDDNetCoreConsole\obj\Debug\netcoreapp3.1\BDDNetCoreConsole.AssemblyInfo.cs
 C:\Temp\VSProjects\BDDNetCore\BDDNetCoreConsole\obj\Debug\netcoreapp3.1\BDDNetCoreConsole.csproj.CoreCompileInputs.cache
