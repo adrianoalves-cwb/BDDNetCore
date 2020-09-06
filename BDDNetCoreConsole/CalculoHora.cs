@@ -7,5 +7,6 @@ namespace BDDNetCoreConsole
     public class CalculoHora
     {
 
+        //teste
 	}
 }
